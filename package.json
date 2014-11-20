@@ -1,7 +1,6 @@
 {
   "name": "node-libspotify",
-  "version": "0.1.0",
-  "description": "node-libspotify ===============",
+  "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
     "lodash": "^2.4.1",
@@ -17,6 +16,7 @@
     "gulp-plumber": "^0.6.6",
     "jshint-stylish": "^1.0.0",
     "mocha": "^2.0.1",
+    "proxyquire": "^1.1.0",
     "run-sequence": "^1.0.2",
     "sinon": "^1.12.1",
     "sinon-chai": "^2.6.0",

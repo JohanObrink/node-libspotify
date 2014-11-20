@@ -1,0 +1,30 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "expr": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "maxparams": 5,
+  "maxdepth": 3,
+  "maxcomplexity": 4,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "quotmark": "single",
+  "node": true,
+  "globals": {
+    "describe": true,
+    "xdescribe": true,
+    "before": true,
+    "beforeEach": true,
+    "after": true,
+    "afterEach": true,
+    "it": true,
+    "xit": true
+  }
+}
