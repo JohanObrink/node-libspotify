@@ -1,0 +1,47 @@
+{
+  "name": "node-libspotify",
+  "version": "0.1.0",
+  "description": "node-libspotify ===============",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "node-spotify": "^0.6.0",
+    "q": "^1.1.1",
+    "request": "^2.48.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^0.6.6",
+    "jshint-stylish": "^1.0.0",
+    "mocha": "^2.0.1",
+    "run-sequence": "^1.0.2",
+    "sinon": "^1.12.1",
+    "sinon-chai": "^2.6.0",
+    "sinon-promise": "^0.1.3"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohanObrink/node-libspotify.git"
+  },
+  "keywords": [
+    "spotify",
+    "libspotify",
+    "node",
+    "spotify",
+    "web",
+    "api",
+    "music"
+  ],
+  "author": "Johan Öbrink <johan.obrink@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohanObrink/node-libspotify/issues"
+  },
+  "homepage": "https://github.com/JohanObrink/node-libspotify"
+}
